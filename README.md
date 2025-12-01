@@ -1,6 +1,6 @@
 ## Quiver Mac License
 
-<img src="https://static.macupdate.com/products/51045/l/quiver-logo.png?v=1602767039" width="200" alt="App icon" align="left"/>
+<img src="https://yliansoft.com/static/images/quiver-ios/AppIcon.png" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>Quiver for macOS</h3>
